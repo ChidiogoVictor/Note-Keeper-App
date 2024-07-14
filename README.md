@@ -1,2 +1,4 @@
 # Note-Keeper-App
-Created with CodeSandbox
+This app saves Notes for future reference.
+# Technologies
+HTML, CSS, JavaScript, ReactJS.
